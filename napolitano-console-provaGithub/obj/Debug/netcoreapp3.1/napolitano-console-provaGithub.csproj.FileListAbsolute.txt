@@ -11,3 +11,16 @@ C:\Users\cristofer.napolitano\Documents\napolitano-console-provaGithub\napolitan
 C:\Users\cristofer.napolitano\Documents\napolitano-console-provaGithub\napolitano-console-provaGithub\obj\Debug\netcoreapp3.1\napolitano-console-provaGithub.dll
 C:\Users\cristofer.napolitano\Documents\napolitano-console-provaGithub\napolitano-console-provaGithub\obj\Debug\netcoreapp3.1\napolitano-console-provaGithub.pdb
 C:\Users\cristofer.napolitano\Documents\napolitano-console-provaGithub\napolitano-console-provaGithub\obj\Debug\netcoreapp3.1\napolitano-console-provaGithub.genruntimeconfig.cache
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\bin\Debug\netcoreapp3.1\napolitano-console-provaGithub.exe
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\bin\Debug\netcoreapp3.1\napolitano-console-provaGithub.deps.json
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\bin\Debug\netcoreapp3.1\napolitano-console-provaGithub.runtimeconfig.json
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\bin\Debug\netcoreapp3.1\napolitano-console-provaGithub.runtimeconfig.dev.json
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\bin\Debug\netcoreapp3.1\napolitano-console-provaGithub.dll
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\bin\Debug\netcoreapp3.1\napolitano-console-provaGithub.pdb
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\obj\Debug\netcoreapp3.1\napolitano-console-provaGithub.csprojAssemblyReference.cache
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\obj\Debug\netcoreapp3.1\napolitano-console-provaGithub.AssemblyInfoInputs.cache
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\obj\Debug\netcoreapp3.1\napolitano-console-provaGithub.AssemblyInfo.cs
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\obj\Debug\netcoreapp3.1\napolitano-console-provaGithub.csproj.CoreCompileInputs.cache
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\obj\Debug\netcoreapp3.1\napolitano-console-provaGithub.dll
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\obj\Debug\netcoreapp3.1\napolitano-console-provaGithub.pdb
+C:\Users\cristofer.napolitano\Documents\clone\SortVectors\napolitano-console-provaGithub\obj\Debug\netcoreapp3.1\napolitano-console-provaGithub.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cristofer.napolitano\\Documents\\napolitano-console-provaGithub\\napolitano-console-provaGithub\\napolitano-console-provaGithub.csproj": {}
+    "C:\\Users\\cristofer.napolitano\\Documents\\clone\\SortVectors\\napolitano-console-provaGithub\\napolitano-console-provaGithub.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cristofer.napolitano\\Documents\\napolitano-console-provaGithub\\napolitano-console-provaGithub\\napolitano-console-provaGithub.csproj": {
+    "C:\\Users\\cristofer.napolitano\\Documents\\clone\\SortVectors\\napolitano-console-provaGithub\\napolitano-console-provaGithub.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cristofer.napolitano\\Documents\\napolitano-console-provaGithub\\napolitano-console-provaGithub\\napolitano-console-provaGithub.csproj",
+        "projectUniqueName": "C:\\Users\\cristofer.napolitano\\Documents\\clone\\SortVectors\\napolitano-console-provaGithub\\napolitano-console-provaGithub.csproj",
         "projectName": "napolitano-console-provaGithub",
-        "projectPath": "C:\\Users\\cristofer.napolitano\\Documents\\napolitano-console-provaGithub\\napolitano-console-provaGithub\\napolitano-console-provaGithub.csproj",
+        "projectPath": "C:\\Users\\cristofer.napolitano\\Documents\\clone\\SortVectors\\napolitano-console-provaGithub\\napolitano-console-provaGithub.csproj",
         "packagesPath": "C:\\Users\\cristofer.napolitano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cristofer.napolitano\\Documents\\napolitano-console-provaGithub\\napolitano-console-provaGithub\\obj\\",
+        "outputPath": "C:\\Users\\cristofer.napolitano\\Documents\\clone\\SortVectors\\napolitano-console-provaGithub\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

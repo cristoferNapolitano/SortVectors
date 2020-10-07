@@ -14,7 +14,7 @@ namespace napolitano_console_provaGithub
                 Console.Write($"{array[i]} ");
             }
 
-            Array.Sort(array);
+            Ordina(array);
             Console.WriteLine();
             for (int i = 0; i < 10; i++)
             {
@@ -22,6 +22,11 @@ namespace napolitano_console_provaGithub
             }
 
             Console.ReadKey();
+        }
+
+        static void Ordina(int[] array)
+        {
+            Array.Sort(array);
         }
     }
 }
