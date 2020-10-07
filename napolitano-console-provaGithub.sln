@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "napolitano-console-provaGithub", "napolitano-console-provaGithub\napolitano-console-provaGithub.csproj", "{2E3CE213-BCB0-474F-AD88-932F06B5D91E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E3CE213-BCB0-474F-AD88-932F06B5D91E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3CE213-BCB0-474F-AD88-932F06B5D91E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3CE213-BCB0-474F-AD88-932F06B5D91E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3CE213-BCB0-474F-AD88-932F06B5D91E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE5DD764-8BDF-4F3D-B5F3-5874C9BF0CD4}
+	EndGlobalSection
+EndGlobal
